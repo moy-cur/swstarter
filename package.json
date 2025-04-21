@@ -1,0 +1,11 @@
+{
+  "name": "lawnstarterproject",
+  "version": "1.0.0",
+  "description": "Star Wars consult app for LawnStarter",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Curiel",
+  "license": "ISC"
+}
